@@ -1,0 +1,63 @@
+.Titlu-mare {
+  color: rgb(97, 0, 84);
+  font-style: oblique;
+  font-size: large;
+  font-size: 50px;
+  font-family: fantasy, Arial, Helvetica, sans-serif;
+}
+.date-personale {
+  color: rgb(71, 141, 0);
+  font-weight: inherit;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: larger;
+}
+/*sunt un comentariu*/
+
+.titluri-mici {
+  color: rgb(153, 45, 255);
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.comentarii {
+  font-style: oblique;
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgb(71, 141, 0);
+}
+.backgrownd-image {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautn8-83035e8e-2d72-4d36-a173-88351460989b.jpg/v1/fill/w_1280,h_800,q_75,strp/kawaii_moon_wallpaper_by_greentea45_deautn8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvYTU3NTU3MzQtZDYzYi00ZThhLTlhZDQtZTRiMzc1YzlkYjBiXC9kZWF1dG44LTgzMDM1ZThlLTJkNzItNGQzNi1hMTczLTg4MzUxNDYwOTg5Yi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.oVVSYEGXO-axu9aeDScCz_QcM9FH00om4LFUsVicgpo);
+}
+.texte-albe {
+  color: white;
+  font-family: Geneva, Tahoma, sans-serif;
+  text-align: justify;
+  /* text-indent: 50px;*/
+}
+.inconjur {
+  width: 500px;
+  height: 150px;
+  border: 10px double rgb(153, 45, 255);
+  border-radius: 50%;
+}
+.button {
+  background-color: rgb(153, 45, 255);
+  border-radius: 35%;
+}
+
+.button:hover {
+  background-color: rgb(51, 0, 58);
+  cursor: pointer;
+}
+.inconjur-poza {
+  width: 26%;
+  height: 26%;
+  border: 20px dashed rgb(97, 0, 84);
+  border-radius: 50%;
+}
+.logo {
+  width: 10%;
+  height: 10%;
+  margin: 0;
+  padding: 0;
+}
